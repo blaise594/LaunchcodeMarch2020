@@ -1,0 +1,54 @@
+Ali Ahmadiavin
+Is working on...
+On assignment 3
+Needs help with...
+While loops, syntax, javascript fundamentals.
+------------------
+
+Bilal Belagam
+Is working on...
+On assignment 3
+Needs help with...
+Iteration and navigating through data structures (objects and arrays). 
+------------------
+
+Dominique Sykes
+Is working on...
+On assignment 3
+Needs help with...
+Iteration and navigating through data structures (objects and arrays). 
+------------------
+
+Kenneth Carlson
+Is working on...
+Todays exercises 
+Needs help with...
+Functions, finding unit testing helpful in understanding
+------------------
+
+Ramidevi Maram
+Is working on...
+Assignment 3
+Needs help with...
+Confusion with status check aspect of the assignment unit tests test 14 - do we need to pass 
+------------------
+
+Matthew Reaves
+Is working on...
+Todays exercises
+Needs help with...
+Recursion, dealing with errors related to iterating through datatypes
+------------------
+
+Renata Sentsova
+Is working on...
+Working on assignment 3 and class 12 exercises.
+Needs help with...
+------------------
+
+Josh Zoellner
+Is working on...
+On assignment 3
+Needs help with...
+On test 10 of assignment 3 - Iteration and navigating through data structures (objects and arrays).
+------------------

@@ -1,0 +1,22 @@
+------------------------
+common terminal commands
+------------------------
+-- change directory --
+cd /folder_you_want_to_go_to
+
+
+
+-- initializes git repository in current directory --
+git init
+
+-- adds all the files in your current directory to be staged for a commit --
+git add .
+
+-- commits your files locally --
+git commit -m "your commit message goes here"
+
+-- connects your local git repo to a remote repo (Github) --
+git remote add origin https://github.com/your_username/the_name_of_your_repo.git
+
+-- push your local commit to the specified remote repository --
+git push origin master
