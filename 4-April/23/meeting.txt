@@ -30,7 +30,7 @@ Ramidevi Maram
 Is working on...
 Assignment 3
 Needs help with...
-Confusion with status check aspect of the assignment unit tests test 14 - do we need to pass 
+Confusion with status check aspect of the assignment unit tests test 14
 ------------------
 
 Matthew Reaves
